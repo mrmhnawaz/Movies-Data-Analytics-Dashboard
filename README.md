@@ -36,9 +36,9 @@ Key features include visualizations of total movies, total budgets, revenues, an
 ---
 
 ## 📸 Dashboard Screenshots/Video  
-![Dashboard Overview]![Dashboard](https://github.com/user-attachments/assets/63ff45b8-17b7-41b3-a0bb-685bd850193d)
+[Dashboard Overview]![Dashboard](https://github.com/user-attachments/assets/63ff45b8-17b7-41b3-a0bb-685bd850193d)
   
-![Trend Analysis] https://github.com/user-attachments/assets/83fda88d-b53e-4d06-bd2e-7068daa89557
+[Trend Analysis Video] https://github.com/user-attachments/assets/83fda88d-b53e-4d06-bd2e-7068daa89557
 
 ---
 
